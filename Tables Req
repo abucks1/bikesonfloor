@@ -1,0 +1,24 @@
+Tables Req
+Name 
+Price Point 
+Category 
+QTY Available 
+
+
+Floor plan 
+
+
+Steps:
+Import SCV into database 
+Search Db and match floor plan with what is Available
+Return updated floor plan
+
+Varibales: 
+If bike in stock, fill 
+If correct size not in stock replace with same bike in different size  
+If bike not in stock replace with "next on list" and send alert/report to order bike
+
+
+
+#sort by different things
+price point / name / size 
